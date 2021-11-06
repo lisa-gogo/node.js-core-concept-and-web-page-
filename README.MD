@@ -1,6 +1,6 @@
 # Node.js Core Concept and simple webpage 
 
-Run node index </dr>
+Run node indexTwo </dr>
 Then go to the localhost:5000 </dr>
 
 # Deployment Page 
